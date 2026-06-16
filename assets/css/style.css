@@ -477,7 +477,6 @@ a:hover{
     padding: 40px 0px;
     background-image: url(/assets/images/grid.png);
     background-size: contain;
-    min-height: 100vh;
 }
 
 #things-i-love .card {
@@ -615,7 +614,6 @@ a:hover{
 
 #skills{
     padding: 100px 0px;
-    min-height: 100vh;
 }
 
 .skill{
@@ -651,7 +649,6 @@ a:hover{
     padding: 100px 0px 80px 0px;
     background-image: url(/assets/images/grid.png);
     background-size: contain;
-    min-height: 100vh;
 }
 
 .tool{
@@ -693,7 +690,6 @@ a:hover{
 
 #projects{
     padding: 100px 0px 80px 0px;
-    min-height: 100vh;
     background-image: url(/assets/images/grid.png);
     background-size: contain;
 }
@@ -970,7 +966,6 @@ a:hover{
 
 #contact{
     padding: 100px 0;
-    min-height: 100vh;
     background-image: url(/assets/images/grid.png);
     background-size: contain;
 }
