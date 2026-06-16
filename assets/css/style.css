@@ -366,8 +366,7 @@ a:hover{
 
 #hero {
     position: relative;
-    padding: 160px 0px 50px 0px;
-    min-height: 100vh;
+    padding: 70px 0px 50px 0px;
 }
 
 #hero .name {
@@ -475,7 +474,7 @@ a:hover{
 --------------------------------------------------------------*/
 
 #things-i-love {
-    padding: 90px 0px;
+    padding: 40px 0px;
     background-image: url(/assets/images/grid.png);
     background-size: contain;
     min-height: 100vh;
